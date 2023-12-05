@@ -1,0 +1,19 @@
+{
+  "name": "fil-deal-context-id",
+  "version": "0.0.1",
+  "description": "Calculate IPNI ContextID for Filecoin StorageMarket deals",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filecoin-station/fil-deal-context-id.git"
+  },
+  "author": "Miroslav Bajtos <oss@bajtos.net>",
+  "license": "(Apache-2.0 AND MIT)",
+  "bugs": {
+    "url": "https://github.com/filecoin-station/fil-deal-context-id/issues"
+  },
+  "homepage": "https://github.com/filecoin-station/fil-deal-context-id#readme"
+}
